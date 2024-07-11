@@ -26,7 +26,7 @@ Este proyecto es una API REST desarrollada con Spring Boot para gestionar la lis
 
 ### Paso 1: Clonar el repositorio
 
-```bash
+
 git clone https://github.com/tu-usuario/tu-repositorio.git
 cd tu-repositorio
 
@@ -83,7 +83,7 @@ Autenticación
 La autenticación se realiza mediante tokens JWT. Para obtener un token, realiza una solicitud de autenticación enviando las credenciales del usuario.
 
 Endpoint de Autenticación
-bash
+
 
 POST /auth/login
 Solicitud de Ejemplo
@@ -101,25 +101,25 @@ json
 }
 Endpoints de la API
 Listar Médicos
-bash
+
 
 GET /medicos
 Este endpoint lista todos los médicos registrados.
 
 Crear Médico
-bash
+
 
 POST /medicos
 Este endpoint crea un nuevo médico.
 
 Actualizar Médico
-bash
+
 
 PUT /medicos/{id}
 Este endpoint actualiza la información de un médico existente.
 
 Eliminar Médico
-bash
+
 
 DELETE /medicos/{id}
 Este endpoint elimina un médico existente.
