@@ -130,4 +130,4 @@ Si deseas contribuir a este proyecto, por favor, haz un fork del repositorio y e
 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Puedes copiar y pegar este contenido directamente en tu archivo `README.md`. Asegúrate de reemplazar `tu-usuario` y `tu-repositorio` con tu nombre de usuario de GitHub y el nombre de tu repositorio, respectivamente, así como `tu_usuario` y `tu_contraseña` con las credenciales adecuadas para tu base de datos PostgreSQL.
+
