@@ -28,7 +28,7 @@ Este proyecto es una API REST desarrollada con Spring Boot para gestionar la lis
 
 
 git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/hernanmedina/api.git)
-cd tu-repositorio
+cd api
 
 
 Paso 2: Configurar la base de datos
