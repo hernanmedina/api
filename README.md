@@ -97,7 +97,7 @@ Respuesta de Ejemplo
 json
 
 {
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+  "token": "${Token}"
 }
 Endpoints de la API
 Listar Médicos
